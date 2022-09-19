@@ -8,17 +8,4 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
- @media screen and (min-width: 900px) {
-   body {
-    background-color: rgb(98, 237, 98);
-  } 
-  .block img{
-    width: 300px;
-  }
-  .block .cartIcon{
-    width: 40px;
-  }
-  .block .img.icon{
-    width: 20px;
-  }
-} 
+
