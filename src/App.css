@@ -58,7 +58,7 @@ button {
   display: flex;
   justify-content: space-around;
 }
-@media all and (min-width: 700px) {
+@media all and (max-width: 600px) {
   .App {
     display: flex;
     flex-direction: column;
