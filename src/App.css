@@ -57,7 +57,17 @@ button {
 .check_list{
   display: flex;
   justify-content: space-around;
-
+}
+@media all and (min-width: 700px) {
+  .App {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .block {
+    width: 100%;
+  }
 }
 
  
