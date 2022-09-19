@@ -8,7 +8,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-/* @media screen and (min-width: 900px) {
+ @media screen and (min-width: 900px) {
    body {
     background-color: rgb(98, 237, 98);
   } 
@@ -21,4 +21,4 @@ code {
   .block .img.icon{
     width: 20px;
   }
-} */
+} 
